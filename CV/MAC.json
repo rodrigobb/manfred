@@ -116,9 +116,10 @@
         "organization": {
           "name": "Grupo Undanet S.L.",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/36f845e7-517e-46a9-a5f3-5b66d8421f32_logo-undanet-negro.svg",
-            "alt": "logo-undanet-negro.svg"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/77111ec6-73f9-47e9-86a7-3cd88357aa1d_captura-de-pantalla-.png",
+            "alt": "Captura de Pantalla 2025-01-16 a las 12.13.32.png"
+          },
+          "URL": "https://grupoundanet.com/"
         },
         "roles": [
           {
