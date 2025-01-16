@@ -185,6 +185,16 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Ingeniero Técnico en Informática de Sistemas",
+        "startDate": "1998-09-01",
+        "institution": {
+          "name": "Universidad de Salamanca"
+        },
+        "finishDate": "2001-09-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Licenciado en Matemáticas",
         "startDate": "1994-09-01",
         "institution": {
