@@ -111,6 +111,22 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Undanet S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/36f845e7-517e-46a9-a5f3-5b66d8421f32_logo-undanet-negro.svg",
+            "alt": "logo-undanet-negro.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2014-11-01",
+            "finishDate": "2020-02-01"
+          }
+        ]
       }
     ]
   },
