@@ -231,6 +231,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
