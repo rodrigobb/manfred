@@ -241,6 +241,10 @@
         {
           "name": "Python",
           "type": "technology"
+        },
+        {
+          "name": "Serverless",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
