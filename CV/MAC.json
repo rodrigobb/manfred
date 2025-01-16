@@ -195,6 +195,16 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Ingeniería Informática",
+        "startDate": "2005-09-01",
+        "institution": {
+          "name": "Universidad de Salamanca"
+        },
+        "finishDate": "2015-02-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Licenciado en Matemáticas",
         "startDate": "1994-09-01",
         "institution": {
