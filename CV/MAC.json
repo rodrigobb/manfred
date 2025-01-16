@@ -185,22 +185,22 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ingeniero Técnico en Informática de Sistemas",
-        "startDate": "1998-09-01",
-        "institution": {
-          "name": "Universidad de Salamanca"
-        },
-        "finishDate": "2001-09-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Ingeniería Informática",
         "startDate": "2005-09-01",
         "institution": {
           "name": "Universidad de Salamanca"
         },
         "finishDate": "2015-02-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Técnica en Informática de Sistemas",
+        "startDate": "1998-09-01",
+        "institution": {
+          "name": "Universidad de Salamanca"
+        },
+        "finishDate": "2001-09-01"
       },
       {
         "studyType": "officialDegree",
