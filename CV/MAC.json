@@ -56,7 +56,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "CSS",
+          "name": "AWS Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS SNS",
           "type": "technology"
         }
       },
@@ -93,12 +99,6 @@
       {
         "skill": {
           "name": "GraphQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
           "type": "technology"
         }
       },
@@ -165,12 +165,6 @@
       {
         "skill": {
           "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vagrant",
           "type": "technology"
         }
       },
