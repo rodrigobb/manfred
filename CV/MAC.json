@@ -80,7 +80,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/ec042693-1bd6-4937-9ed4-4c4e1dee8a76_urbandataanalytics_l.jpeg",
             "alt": "urbandataanalytics_logo.jpeg"
-          }
+          },
+          "URL": "https://www.urbandataanalytics.com/"
         },
         "roles": [
           {
