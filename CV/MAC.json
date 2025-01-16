@@ -1,0 +1,268 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Rodrigo",
+      "surnames": "Borrego Bernabé",
+      "title": "%%HEADLINE%%",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJRXzdx10mPw0Rqqm_C9Dkei8)",
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Salamanca"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rodrigoborrego"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/rodrigobb"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/rodrigobbtw"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/2711062/rodrigobb"
+      },
+      {
+        "type": "other",
+        "URL": "https://rodri.net"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostGIS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vagrant",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Critical view",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/rodrigoborrego",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/2711062/rodrigobb",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/rodrigobb",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/rodrigobbtw",
+          "type": "twitter"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Engineering Management",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Desarrollador de software en un equipo en el que poner en funcionamiento proyectos que marquen diferencias y que a la vez me supongan un reto tecnológico. Aprender mucho (no sólo tecnologías, también pueden ser metodologías de trabajo, ámbitos de aplicación, etc.) y sentirme orgulloso cuando la gente use los productos en los que he puesto mi pasión.\n\nComo TechLead/Manager colaborar en la construcción de equipos que sean capaces de resolver las necesidades de la empresa, versátiles y dinámicos, capaces de aportar soluciones creativas en situaciones reales de negocio. \nMe atrae mucho el reto de escalar un producto recién lanzado, o resolver los retos de una escalada reciente.\nTodos los meses ver cómo la gente a mi alrededor crece profesionalmente y sentir que puedo aportar a ese crecimiento."
+  }
+}
