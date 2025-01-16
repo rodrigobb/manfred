@@ -40,6 +40,26 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Syngenta Group",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/0f3c56e9-efbc-40ef-8662-b38d07b61e79_syngentagroup_logo.jpeg",
+            "alt": "syngentagroup_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Teach Lead",
+            "startDate": "2022-06-01",
+            "finishDate": "2024-11-01"
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
@@ -205,7 +225,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Licenciado en Matemáticas",
+        "name": "Licenciatura en Matemáticas",
         "startDate": "1994-09-01",
         "institution": {
           "name": "Universidad de Salamanca"
