@@ -196,12 +196,6 @@
       },
       {
         "skill": {
-          "name": "Critical view",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Team player",
           "type": "practice"
         }
