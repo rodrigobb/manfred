@@ -181,6 +181,18 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciado en Matemáticas",
+        "startDate": "1994-09-01",
+        "institution": {
+          "name": "Universidad de Salamanca"
+        },
+        "finishDate": "2000-06-01"
+      }
+    ],
     "softSkills": [
       {
         "skill": {
