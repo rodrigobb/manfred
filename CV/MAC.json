@@ -76,7 +76,12 @@
           {
             "name": "Head of Backend",
             "startDate": "2020-08-01",
-            "finishDate": "2022-06-01"
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Teach Lead and Manager of a team of 5-6 people that build bridges between Core Enterprise Data and products and customers, including third party platforms.\n\nAPIs, Microservices, Software architecture, Backend for frontend."
+              }
+            ]
           }
         ]
       },
