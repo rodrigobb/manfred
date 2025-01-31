@@ -54,7 +54,12 @@
           {
             "name": "Teach Lead",
             "startDate": "2022-06-01",
-            "finishDate": "2024-11-01"
+            "finishDate": "2024-11-01",
+            "challenges": [
+              {
+                "description": "Cropwise Protector, digital tool to make agronomic decisions easier and faster. It turns data into meaningful analysis and insights. Protector is part of a platform with development teams in Brazil, Spain and Pune (India).\n\nThe leaded team is responsible of the Disease Risk Domain: intended to track disease risk levels in the fields with advanced predictive models and deliver alerts (mobile and web) to act when the time comes. \n- Workflow and development management \n- Coordination between teams. \n- Quality improvement, Code Reviews"
+              }
+            ]
           }
         ]
       },
