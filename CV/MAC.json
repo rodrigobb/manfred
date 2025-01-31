@@ -99,6 +99,11 @@
             "name": "Senior Software Engineer",
             "startDate": "2020-03-01",
             "finishDate": "2020-08-01",
+            "challenges": [
+              {
+                "description": "Backend Team Lead in projects like:\n\n- Fotocasa Inversión Inmobiliaria (python, Django, PostgreSQL, PostGis, ElasticSearch, GCP, Kubernetes)\n- Market / Indicators (python, Django, PostgreSQL, PostGis, ElasticSearch, GCP, Kubernetes)\n- Smart Valuation (python, Django, PostgreSQL, PostGis, ElasticSearch, GCP, Kubernetes)\n- MACC 1x1 (python, GCP, Kubernetes)\n\nBackend Team Lead in projects like: - Fotocasa Inversión Inmobiliaria (python, Django, PostgreSQL, PostGis, ElasticSearch, GCP, Kubernetes) - Market / Indicators (python, Django, PostgreSQL, PostGis, ElasticSearch, GCP, Kubernetes) - Smart Valuation (python, Django, PostgreSQL, PostGis, ElasticSearch, GCP, Kubernetes) - MACC 1x1 (python, GCP, Kubernetes)\n"
+              }
+            ],
             "competences": [
               {
                 "name": "Celery",
